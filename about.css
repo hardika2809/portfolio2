@@ -1,0 +1,26 @@
+.img {
+    width: 250px;
+    height: 250px;
+    border-radius:30%;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 30px;
+}
+.info-div{
+display: flex;
+gap:8%;
+}
+.content{
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(16, 75, 105);
+    font-size: 15px;
+    border: 2px solid aqua;
+}
+h3{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+.name{
+    padding: 100px;
+    font-size: 20px;
+}

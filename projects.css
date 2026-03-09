@@ -1,0 +1,20 @@
+.main-section{
+    display: flex;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+.project-card{
+    padding: 20px;
+    margin: 2px;
+    border: 2px solid black;
+}
+h2{
+    font-size: 20px;
+    color: aqua;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
